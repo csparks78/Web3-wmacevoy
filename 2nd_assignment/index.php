@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php include 'new.php' ?>
+<?php include 'action.php' ?>
 <html>
 
 <head>
