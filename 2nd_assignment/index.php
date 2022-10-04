@@ -13,7 +13,7 @@
   <p id=required>* required field</span></p>  
     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
 
-      FullName: <input type="text" name="name">
+      Full Name: <input type="text" name="name">
       <span class="error">* <?php echo $nameErr; ?></span>
       <br><br>
 
