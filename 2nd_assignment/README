@@ -1,0 +1,5 @@
+A simple form that takes input and checks against regex using PHP function preg_match(). 
+
+If it passes the regex it submits, otherwise it says you need to enter valid input and doesn't submit.
+
+Pictures of the program running are in "2nd_assignment/images"
