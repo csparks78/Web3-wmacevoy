@@ -1,0 +1,16 @@
+.title{
+    background-color: rgb(7, 7, 7);
+
+}
+.navbar, .navbar-nav, .nav-item, .nav-link{
+    background-color: white;
+    color: white;
+}
+a{
+    background-color:white;
+    color: white;
+}
+.navbar-brand{
+    color: white;
+    background-color:white;
+}
