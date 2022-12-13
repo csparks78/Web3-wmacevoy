@@ -1,8 +1,0 @@
-
-To do list:
-
-Fix logout button
-Add vaccination status
-    -and notify when expired
-search records
-delete records
